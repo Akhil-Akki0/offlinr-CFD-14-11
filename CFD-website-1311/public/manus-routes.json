@@ -1,0 +1,20 @@
+{
+  "routes": [
+    { "path": "/", "title": "Aero CFD Workbench" },
+    { "path": "/intro-robot", "title": "Aero CFD Introduction" },
+    { "path": "/limits", "title": "Simulation Limits" },
+    { "path": "/landing", "title": "Aero CFD Landing" },
+    { "path": "/dashboard", "title": "Dashboard" },
+    { "path": "/projects", "title": "Projects" },
+    { "path": "/geometry", "title": "Geometry" },
+    { "path": "/setup", "title": "Simulation Setup" },
+    { "path": "/runner", "title": "Simulation Runner" },
+    { "path": "/live-sim", "title": "Live Simulation" },
+    { "path": "/sweeps", "title": "Parametric Sweeps" },
+    { "path": "/results", "title": "Results" },
+    { "path": "/history", "title": "History" },
+    { "path": "/ai", "title": "AI Analysis" },
+    { "path": "/reporting", "title": "Reporting" },
+    { "path": "/docs", "title": "Documentation" }
+  ]
+}
